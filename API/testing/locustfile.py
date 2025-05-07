@@ -7,3 +7,6 @@ class MyUser(HttpUser):
     def my_task(self):
         self.client.get("/")
 
+
+# to run file " locust -f locustfile.py"
+
