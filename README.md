@@ -1,53 +1,6 @@
 # python_learning
 
 
-Here is your fully cleaned and properly formatted **`.md` file**:
-
-````md
-# Python Learning
-
-# Comprehensive Guide to Python and Code Complexity
-
-## Part 1: Setting Up for Python
-Python is a high-level, interpreted language known for its readability.
-
-- **Online Editors:** Replit, Google Colab  
-- **Local Setup:** Python 3.x + VS Code (Visual Studio Code)
-
----
-
-## Part 2: Python Fundamentals
-
-### 1. Variables & Data Types
-- **Strings:**  
-  ```python
-  text = "Hello"
-````
-
-* **Integers/Floats:**
-
-  ```python
-  age = 25
-  price = 19.99
-  ```
-
-* **Booleans:**
-
-  ```python
-  is_active = True
-  ```
-
----
-
-### 2. Control Flow
-
-* **If/Else:** Decision making based on conditions
-* **Loops:**
-
-  * `for` loops → known iterations
-  * `while` loops → conditional iterations
-
----
 
 ## Part 3: Time and Space Complexity (Big O)
 
@@ -145,11 +98,3 @@ Using a dictionary (hash map) gives `O(1)` lookup but increases space usage.
 | Quadratic   | O(n²)    | Poor: Slows quickly with large data  |
 
 ---
-
-```
-
-If you want, I can also:
-- convert this into a **GitHub-ready README.md**
-- add **diagrams/visuals**
-- or expand it into a **full Python learning roadmap** 🚀
-```
